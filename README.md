@@ -5,5 +5,6 @@ SSM、Spring+SpringMVC+MyBatis开发示例
 * MySQL作为数据库
 * 使用JSP作为视图展现技术
 
-> .idea.rar为IDEA工程的压缩包，使用时需解压
+> .idea.rar为IDEA工程的压缩包，使用时需解压。
+
 > tiger.sql 为数据库转储SQL
