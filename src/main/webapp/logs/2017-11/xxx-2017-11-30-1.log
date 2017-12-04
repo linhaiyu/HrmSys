@@ -1,0 +1,239 @@
+2017-11-30 09:34:17.524 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-30 09:35:08.012 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-30 09:35:08.702 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 09:54:39.551 INFO  com.hr.controller.UserController 56 selectUser - pageIndex = null, user = User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-30 09:54:39.981 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:11:09.718 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-30 11:11:15.342 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:11:21.443 INFO  com.hr.controller.NoticeController 33 addNotice - show showAddNotice
+2017-11-30 11:11:46.276 INFO  com.hr.controller.NoticeController 44 addNotice - notice=Notice [id=null, title=圣诞节放假通知, content=圣诞节放假三天，特此通知！, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 11:11:46.317 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:13:55.853 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:13:56.003 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:14:04.788 INFO  com.hr.controller.NoticeController 104 previewNotice - id=1
+2017-11-30 11:15:48.452 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-30 11:15:50.753 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:15:50.963 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:15:52.704 INFO  com.hr.controller.NoticeController 104 previewNotice - id=1
+2017-11-30 11:15:52.714 INFO  com.hr.controller.NoticeController 107 previewNotice - notice=Notice [id=1, title=圣诞节放假通知, content=圣诞节放假三天，特此通知！, createDate=Thu Nov 30 11:11:45 CST 2017, user=null]
+2017-11-30 11:17:26.648 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:17:26.788 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:17:28.549 INFO  com.hr.controller.NoticeController 104 previewNotice - id=1
+2017-11-30 11:17:28.569 INFO  com.hr.controller.NoticeController 107 previewNotice - notice=Notice [id=1, title=圣诞节放假通知, content=圣诞节放假三天，特此通知！, createDate=Thu Nov 30 11:11:45 CST 2017, user=null]
+2017-11-30 11:17:36.328 INFO  com.hr.controller.NoticeController 33 addNotice - show showAddNotice
+2017-11-30 11:17:59.370 INFO  com.hr.controller.NoticeController 44 addNotice - notice=Notice [id=null, title=元旦节放假公告, content=元旦节放假1天，研发部门需加班请提前申请！, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 11:17:59.400 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:17:59.440 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:18:02.521 INFO  com.hr.controller.NoticeController 33 addNotice - show showAddNotice
+2017-11-30 11:19:08.917 INFO  com.hr.controller.NoticeController 44 addNotice - notice=Notice [id=null, title=烤火费发放通知, content=今年冬季烤火费将于12月5日发放到员工发薪账户，请注意查收。, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 11:19:08.957 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:19:08.997 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:19:21.964 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=通知, content=, createDate=null, user=null]
+2017-11-30 11:19:22.014 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:19:26.666 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=公告, content=, createDate=null, user=null]
+2017-11-30 11:19:26.706 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:19:32.799 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=, content=放假, createDate=null, user=null]
+2017-11-30 11:19:32.840 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:19:40.003 INFO  com.hr.controller.NoticeController 71 updateNotice - target notice=Notice [id=1, title=圣诞节放假通知, content=圣诞节放假三天，特此通知！, createDate=Thu Nov 30 11:11:45 CST 2017, user=null]
+2017-11-30 11:19:56.942 INFO  com.hr.controller.NoticeController 79 updateNotice - new notice=Notice [id=1, title=圣诞节放假通知, content=圣诞节放假三天，特此通知！
+如需加班，请提前申请，谢谢！, createDate=null, user=null]
+2017-11-30 11:19:56.982 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:19:57.012 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:19:59.774 INFO  com.hr.controller.NoticeController 104 previewNotice - id=1
+2017-11-30 11:19:59.794 INFO  com.hr.controller.NoticeController 107 previewNotice - notice=Notice [id=1, title=圣诞节放假通知, content=圣诞节放假三天，特此通知！
+如需加班，请提前申请，谢谢！, createDate=Thu Nov 30 11:19:56 CST 2017, user=null]
+2017-11-30 11:20:08.358 INFO  com.hr.controller.NoticeController 33 addNotice - show showAddNotice
+2017-11-30 11:20:51.268 INFO  com.hr.controller.NoticeController 44 addNotice - notice=Notice [id=null, title=技术大比武通知, content=研发部门将在2018年一季度开展技术大比武，欢迎技术部门的员工踊跃参加！具体细则稍后另行通知！, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 11:20:51.288 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:20:51.328 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:20:56.861 INFO  com.hr.controller.NoticeController 33 addNotice - show showAddNotice
+2017-11-30 11:22:05.457 INFO  com.hr.controller.NoticeController 44 addNotice - notice=Notice [id=null, title=年度体检, content=2018年1月10日——2018年1月20日，我司将开展公司年度体检，体检单位为爱康国宾，具体体检安排将由各个部门发送通知。, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 11:22:05.487 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:22:05.517 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-30 11:22:08.189 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=2, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-30 11:22:08.369 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:22:14.232 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:22:14.262 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-30 11:22:24.858 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=2, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-30 11:22:24.918 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:22:27.229 INFO  com.hr.controller.NoticeController 33 addNotice - show showAddNotice
+2017-11-30 11:22:28.140 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:22:28.169 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-30 11:22:32.822 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-30 11:22:32.882 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:22:36.594 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-30 11:22:36.784 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-30 11:22:38.325 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=2, job=Job [id=null, name=null, remark=null]
+2017-11-30 11:22:38.355 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 2
+2017-11-30 11:22:39.275 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=3, job=Job [id=null, name=null, remark=null]
+2017-11-30 11:22:39.295 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 3
+2017-11-30 11:22:45.939 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:22:45.969 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-30 11:23:55.596 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:23:55.726 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-30 11:23:57.127 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=2, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:23:57.167 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-11-30 11:23:59.438 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=1, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:23:59.468 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-30 11:24:53.972 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:24:54.122 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-30 11:24:59.875 INFO  com.hr.controller.NoticeController 55 deleteNotice - ids=2,3
+2017-11-30 11:24:59.925 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:24:59.955 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:25:17.554 INFO  com.hr.controller.NoticeController 104 previewNotice - id=5
+2017-11-30 11:25:17.574 INFO  com.hr.controller.NoticeController 107 previewNotice - notice=Notice [id=5, title=年度体检, content=2018年1月10日——2018年1月20日，我司将开展公司年度体检，体检单位为爱康国宾，具体体检安排将由各个部门发送通知。, createDate=Thu Nov 30 11:22:05 CST 2017, user=null]
+2017-11-30 11:25:45.929 INFO  com.hr.controller.NoticeController 71 updateNotice - target notice=Notice [id=5, title=年度体检, content=2018年1月10日——2018年1月20日，我司将开展公司年度体检，体检单位为爱康国宾，具体体检安排将由各个部门发送通知。, createDate=Thu Nov 30 11:22:05 CST 2017, user=null]
+2017-11-30 11:26:16.235 INFO  com.hr.controller.NoticeController 79 updateNotice - new notice=Notice [id=5, title=年度体检, content=2018年1月10日——2018年1月20日，我司将开展公司年度体检，体检单位为爱康国宾，具体体检安排将由各个部门发送通知。届时请员工根据部门安排，提前预约，按时完成体检。, createDate=null, user=null]
+2017-11-30 11:26:16.265 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:26:16.295 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 11:26:18.606 INFO  com.hr.controller.NoticeController 104 previewNotice - id=5
+2017-11-30 11:26:18.626 INFO  com.hr.controller.NoticeController 107 previewNotice - notice=Notice [id=5, title=年度体检, content=2018年1月10日——2018年1月20日，我司将开展公司年度体检，体检单位为爱康国宾，具体体检安排将由各个部门发送通知。届时请员工根据部门安排，提前预约，按时完成体检。, createDate=Thu Nov 30 11:26:15 CST 2017, user=null]
+2017-11-30 11:27:03.561 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 11:27:03.681 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:09:50.041 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-30 15:14:56.343 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-30 15:14:56.433 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:24:03.419 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:24:06.150 INFO  com.hr.controller.UserController 77 selectUser - pageIndex = null, user = User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-30 15:24:06.380 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:24:38.537 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:24:38.597 INFO  com.hr.controller.UserController 77 selectUser - pageIndex = null, user = User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-30 15:24:38.647 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:24:39.995 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:24:42.351 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:25:31.960 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:28:44.529 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:29:25.530 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:34:29.452 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-30 15:34:29.552 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:34:57.336 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:35:45.465 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:36:16.982 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:37:00.826 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:37:09.200 INFO  com.hr.controller.UserController 77 selectUser - pageIndex = null, user = User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-30 15:37:09.340 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:37:11.031 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-3
+2017-11-30 15:37:17.374 INFO  com.hr.controller.NoticeController 33 addNotice - show showAddNotice
+2017-11-30 15:37:34.714 INFO  com.hr.controller.NoticeController 44 addNotice - notice=Notice [id=null, title=下午茶, content=增加下午茶，天天吃开心。, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 15:37:34.814 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 15:37:34.954 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:37:37.415 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-0, notice-4
+2017-11-30 15:37:40.637 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:37:44.079 INFO  com.hr.controller.DocumentController 42 addDocument - show showAddDocument
+2017-11-30 15:38:08.161 INFO  com.hr.controller.DocumentController 49 addDocument - document=Document [id=null, title=这叫什么事？, fileName=null, file=org.springframework.web.multipart.commons.CommonsMultipartFile@5a28f24d, remark=这叫什么事？, createDate=null, user=null]
+2017-11-30 15:38:08.161 INFO  com.hr.controller.DocumentController 52 addDocument - save file in: D:\03MyCode\01Practice\Java\HrmSystem\src\main\webapp\upload
+2017-11-30 15:38:08.161 INFO  com.hr.controller.DocumentController 63 addDocument - saved document=Document [id=null, title=这叫什么事？, fileName=这叫什么事？.txt, file=org.springframework.web.multipart.commons.CommonsMultipartFile@5a28f24d, remark=这叫什么事？, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 15:38:21.929 INFO  com.hr.controller.DocumentController 42 addDocument - show showAddDocument
+2017-11-30 15:40:28.060 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:41:02.675 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-1, notice-4
+2017-11-30 15:41:06.537 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:41:06.647 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:41:15.162 INFO  com.hr.controller.DocumentController 42 addDocument - show showAddDocument
+2017-11-30 15:41:45.768 INFO  com.hr.controller.DocumentController 49 addDocument - document=Document [id=null, title=人事管理系统, fileName=null, file=org.springframework.web.multipart.commons.CommonsMultipartFile@37aeabe, remark=人事管理系统设计文档, createDate=null, user=null]
+2017-11-30 15:41:45.768 INFO  com.hr.controller.DocumentController 52 addDocument - save file in: D:\03MyCode\01Practice\Java\HrmSystem\src\main\webapp\upload
+2017-11-30 15:41:45.768 INFO  com.hr.controller.DocumentController 63 addDocument - saved document=Document [id=null, title=人事管理系统, fileName=人事管理系统.xmind, file=org.springframework.web.multipart.commons.CommonsMultipartFile@37aeabe, remark=人事管理系统设计文档, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 15:43:07.254 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-30 15:43:07.354 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-2, notice-4
+2017-11-30 15:43:11.396 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:43:11.576 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:43:15.488 INFO  com.hr.controller.DocumentController 87 updateDocument - id=1
+2017-11-30 15:43:15.508 INFO  com.hr.controller.DocumentController 89 updateDocument - target document=Document [id=1, title=这叫什么事？, fileName=这叫什么事？.txt, file=null, remark=这叫什么事？, createDate=Thu Nov 30 15:38:07 CST 2017, user=null]
+2017-11-30 15:43:35.098 INFO  com.hr.controller.DocumentController 98 updateDocument - new document=Document [id=1, title=这叫什么事？, fileName=null, file=org.springframework.web.multipart.commons.CommonsMultipartFile@47e287f6, remark=一时想不通，所以要记录一下……, createDate=null, user=null] 
+2017-11-30 15:43:35.179 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:43:35.219 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:43:47.069 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=什么, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:43:47.109 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:43:51.008 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=系统, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:43:51.049 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:43:52.589 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:43:52.619 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:43:55.311 INFO  com.hr.controller.DocumentController 127 downLoad - id=1
+2017-11-30 15:43:55.321 INFO  com.hr.controller.DocumentController 131 downLoad - target=Document [id=1, title=这叫什么事？, fileName=这叫什么事？.txt, file=null, remark=一时想不通，所以要记录一下……, createDate=Thu Nov 30 15:43:34 CST 2017, user=null]
+2017-11-30 15:44:27.228 INFO  com.hr.controller.DocumentController 73 removeDocument - ids=1
+2017-11-30 15:44:27.258 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:44:27.288 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:44:38.814 INFO  com.hr.controller.DocumentController 42 addDocument - show showAddDocument
+2017-11-30 15:45:00.426 INFO  com.hr.controller.DocumentController 49 addDocument - document=Document [id=null, title=常用头像, fileName=null, file=org.springframework.web.multipart.commons.CommonsMultipartFile@301a8e0e, remark=常用头像, createDate=null, user=null]
+2017-11-30 15:45:00.426 INFO  com.hr.controller.DocumentController 52 addDocument - save file in: D:\03MyCode\01Practice\Java\HrmSystem\src\main\webapp\upload
+2017-11-30 15:45:00.436 INFO  com.hr.controller.DocumentController 63 addDocument - saved document=Document [id=null, title=常用头像, fileName=常用头像1.jpg, file=org.springframework.web.multipart.commons.CommonsMultipartFile@301a8e0e, remark=常用头像, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 15:45:00.506 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:45:00.536 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:45:18.698 INFO  com.hr.controller.DocumentController 127 downLoad - id=3
+2017-11-30 15:45:18.718 INFO  com.hr.controller.DocumentController 131 downLoad - target=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像, createDate=Thu Nov 30 15:45:00 CST 2017, user=null]
+2017-11-30 15:45:21.479 INFO  com.hr.controller.DocumentController 127 downLoad - id=3
+2017-11-30 15:45:21.499 INFO  com.hr.controller.DocumentController 131 downLoad - target=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像, createDate=Thu Nov 30 15:45:00 CST 2017, user=null]
+2017-11-30 15:45:27.973 INFO  com.hr.controller.DocumentController 127 downLoad - id=3
+2017-11-30 15:45:27.993 INFO  com.hr.controller.DocumentController 131 downLoad - target=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像, createDate=Thu Nov 30 15:45:00 CST 2017, user=null]
+2017-11-30 15:45:51.172 INFO  com.hr.controller.DocumentController 87 updateDocument - id=3
+2017-11-30 15:45:51.182 INFO  com.hr.controller.DocumentController 89 updateDocument - target document=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像, createDate=Thu Nov 30 15:45:00 CST 2017, user=null]
+2017-11-30 15:46:01.638 INFO  com.hr.controller.DocumentController 98 updateDocument - new document=Document [id=3, title=常用头像, fileName=null, file=org.springframework.web.multipart.commons.CommonsMultipartFile@1d8af597, remark=常用头像, createDate=null, user=null] 
+2017-11-30 15:46:01.678 INFO  com.hr.controller.DocumentController 108 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:46:01.718 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:46:12.448 INFO  com.hr.controller.DocumentController 127 downLoad - id=3
+2017-11-30 15:46:12.468 INFO  com.hr.controller.DocumentController 131 downLoad - target=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像, createDate=Thu Nov 30 15:45:00 CST 2017, user=null]
+2017-11-30 15:46:28.548 INFO  com.hr.controller.DocumentController 87 updateDocument - id=3
+2017-11-30 15:46:28.568 INFO  com.hr.controller.DocumentController 89 updateDocument - target document=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像, createDate=Thu Nov 30 15:45:00 CST 2017, user=null]
+2017-11-30 15:50:28.039 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-30 15:50:28.139 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-2, notice-4
+2017-11-30 15:50:33.492 INFO  com.hr.controller.DocumentController 120 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:50:33.702 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:50:36.353 INFO  com.hr.controller.DocumentController 87 updateDocument - id=3
+2017-11-30 15:50:36.373 INFO  com.hr.controller.DocumentController 89 updateDocument - target document=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像, createDate=Thu Nov 30 15:45:00 CST 2017, user=null]
+2017-11-30 15:50:44.527 INFO  com.hr.controller.DocumentController 100 updateDocument - save file in: D:\03MyCode\01Practice\Java\HrmSystem\src\main\webapp\upload
+2017-11-30 15:50:44.527 INFO  com.hr.controller.DocumentController 110 updateDocument - new document=Document [id=3, title=常用头像, fileName=多多证件照2017-10-8.jpg, file=org.springframework.web.multipart.commons.CommonsMultipartFile@21c33898, remark=常用头像2, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]] 
+2017-11-30 15:50:44.618 INFO  com.hr.controller.DocumentController 120 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:50:44.648 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:50:53.947 INFO  com.hr.controller.DocumentController 139 downLoad - id=3
+2017-11-30 15:50:53.967 INFO  com.hr.controller.DocumentController 143 downLoad - target=Document [id=3, title=常用头像, fileName=多多证件照2017-10-8.jpg, file=null, remark=常用头像2, createDate=Thu Nov 30 15:50:44 CST 2017, user=null]
+2017-11-30 15:51:06.509 INFO  com.hr.controller.DocumentController 87 updateDocument - id=3
+2017-11-30 15:51:06.519 INFO  com.hr.controller.DocumentController 89 updateDocument - target document=Document [id=3, title=常用头像, fileName=多多证件照2017-10-8.jpg, file=null, remark=常用头像2, createDate=Thu Nov 30 15:50:44 CST 2017, user=null]
+2017-11-30 15:51:14.383 INFO  com.hr.controller.DocumentController 100 updateDocument - save file in: D:\03MyCode\01Practice\Java\HrmSystem\src\main\webapp\upload
+2017-11-30 15:51:14.383 INFO  com.hr.controller.DocumentController 110 updateDocument - new document=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=org.springframework.web.multipart.commons.CommonsMultipartFile@66459326, remark=常用头像2, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]] 
+2017-11-30 15:51:14.443 INFO  com.hr.controller.DocumentController 120 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:51:14.473 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:51:16.344 INFO  com.hr.controller.DocumentController 139 downLoad - id=3
+2017-11-30 15:51:16.354 INFO  com.hr.controller.DocumentController 143 downLoad - target=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像2, createDate=Thu Nov 30 15:51:14 CST 2017, user=null]
+2017-11-30 15:51:24.281 INFO  com.hr.controller.DocumentController 42 addDocument - show showAddDocument
+2017-11-30 15:51:44.784 INFO  com.hr.controller.DocumentController 120 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:51:44.814 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:51:46.825 INFO  com.hr.controller.DocumentController 139 downLoad - id=3
+2017-11-30 15:51:46.835 INFO  com.hr.controller.DocumentController 143 downLoad - target=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像2, createDate=Thu Nov 30 15:51:14 CST 2017, user=null]
+2017-11-30 15:51:55.130 INFO  com.hr.controller.DocumentController 87 updateDocument - id=3
+2017-11-30 15:51:55.140 INFO  com.hr.controller.DocumentController 89 updateDocument - target document=Document [id=3, title=常用头像, fileName=常用头像1.jpg, file=null, remark=常用头像2, createDate=Thu Nov 30 15:51:14 CST 2017, user=null]
+2017-11-30 15:51:59.705 INFO  com.hr.controller.DocumentController 100 updateDocument - save file in: D:\03MyCode\01Practice\Java\HrmSystem\src\main\webapp\upload
+2017-11-30 15:51:59.705 INFO  com.hr.controller.DocumentController 110 updateDocument - new document=Document [id=3, title=常用头像, fileName=多多证件照2017-10-8.jpg, file=org.springframework.web.multipart.commons.CommonsMultipartFile@196ad6b0, remark=常用头像2, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]] 
+2017-11-30 15:51:59.725 INFO  com.hr.controller.DocumentController 120 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:51:59.755 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:52:01.466 INFO  com.hr.controller.DocumentController 139 downLoad - id=3
+2017-11-30 15:52:01.476 INFO  com.hr.controller.DocumentController 143 downLoad - target=Document [id=3, title=常用头像, fileName=多多证件照2017-10-8.jpg, file=null, remark=常用头像2, createDate=Thu Nov 30 15:51:59 CST 2017, user=null]
+2017-11-30 15:52:16.279 INFO  com.hr.controller.DocumentController 42 addDocument - show showAddDocument
+2017-11-30 15:52:58.778 INFO  com.hr.controller.DocumentController 49 addDocument - document=Document [id=null, title=昆工二期需求流程图, fileName=null, file=org.springframework.web.multipart.commons.CommonsMultipartFile@6669fbd9, remark=昆工二期需求流程图, createDate=null, user=null]
+2017-11-30 15:52:58.778 INFO  com.hr.controller.DocumentController 52 addDocument - save file in: D:\03MyCode\01Practice\Java\HrmSystem\src\main\webapp\upload
+2017-11-30 15:52:58.788 INFO  com.hr.controller.DocumentController 63 addDocument - saved document=Document [id=null, title=昆工二期需求流程图, fileName=昆工二期需求流程图.vsdx, file=org.springframework.web.multipart.commons.CommonsMultipartFile@6669fbd9, remark=昆工二期需求流程图, createDate=null, user=User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017]]
+2017-11-30 15:52:58.908 INFO  com.hr.controller.DocumentController 120 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:52:58.938 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 15:53:23.731 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4
+2017-11-30 15:53:30.939 INFO  com.hr.controller.DocumentController 120 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 15:53:30.969 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 16:18:06.977 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4
+2017-11-30 16:18:10.549 INFO  com.hr.controller.DocumentController 120 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-11-30 16:18:10.579 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 16:19:22.898 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-30 16:19:23.078 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-30 16:19:24.699 INFO  com.hr.controller.DeptController 74 addDept - flag=1, dept=Dept [id=null, name=null, remark=null]
+2017-11-30 16:19:25.729 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-30 16:19:25.759 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-30 16:19:30.662 INFO  com.hr.controller.EmployeeController 56 addEmployee - show showAddEmployee
+2017-11-30 16:19:35.274 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 16:19:35.394 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 16:19:36.175 INFO  com.hr.controller.NoticeController 33 addNotice - show showAddNotice
+2017-11-30 16:19:37.175 INFO  com.hr.controller.NoticeController 89 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-11-30 16:19:37.205 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 16:19:40.757 INFO  com.hr.controller.UserController 77 selectUser - pageIndex = null, user = User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-30 16:19:40.857 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 16:19:41.688 INFO  com.hr.controller.UserController 168 addUser - GET, flag=1
+2017-11-30 16:19:41.688 INFO  com.hr.controller.UserController 174 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-30 16:19:43.268 INFO  com.hr.controller.UserController 77 selectUser - pageIndex = null, user = User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-30 16:19:43.298 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-30 16:34:09.991 INFO  com.hr.controller.UserController 77 selectUser - pageIndex = null, user = User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-30 16:34:10.021 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1

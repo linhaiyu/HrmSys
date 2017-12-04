@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
+
+    <!--数据库属性文件-->
+    <bean id="propertyConfigurer"
+          class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="location" value="classpath:dbJdbc.properties" />
+    </bean>
+
+    <!--定义jdbc数据源，创建一个驱动管理数据源的bean-->
+    <bean id="jdbcDataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="driverClassName" value="${db.driver}" />
+        <property name="url" value="${db.url}" />
+        <property name="username" value="${db.username}" />
+        <property name="password" value="${db.password}" />
+    </bean>
+
+    <!--创建sql会话工厂bean-->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <!--指定数据源-->
+        <property name="dataSource" ref="jdbcDataSource"/>
+        <!--类型别名包，一般对应实体类所在的包-->
+        <property name="typeAliasesPackage" value="com.hr.entity" />
+        <!--指定sql映射xml文件的路径-->
+        <!--<property name="mapperLocations" value="classpath:com/hr/mapper/*Mapper.xml" />-->
+    </bean>
+
+    <!--自动扫描映射接口-->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <!--指定基础包，自动扫描这个包及其子包的所有Mapper接口，多个基础包之间可以用逗号或者分号间隔-->
+        <property name="basePackage" value="com.hr.mapper"/>
+        <!--指定sql会话工厂-->
+        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory" />
+    </bean>
+
+    <!--JDBC事务管理-->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="jdbcDataSource" />
+    </bean>
+
+    <!--启用支持注解方式事务管理-->
+    <tx:annotation-driven/>
+</beans>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/mvc
+       http://www.springframework.org/schema/mvc/spring-mvc.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!--注册annotationHandlerMapping, AnnotationMethodHandlerAdapter，开启mvc注解-->
+    <mvc:annotation-driven />
+
+    <!--扫描Spring相关注解类，通过@Controller、@Service等Spring提供的注解，将Java类配置为Spring的 bean-->
+    <context:component-scan base-package="com.hr" />
+
+    <!--开启spring注解-->
+    <context:annotation-config />
+
+    <!--加载数据库连接配置文件-->
+    <import resource="databaseContext.xml" />
+
+    <!--Spring MVC 拦截器定义-->
+    <!--拦截器定义需要放在全局环境，applicationContext中-->
+    <mvc:interceptors>
+        <mvc:interceptor>
+            <!--拦截所有请求-->
+            <mvc:mapping path="/*" />
+            <!--使用bean定义一个 Interceptor-->
+            <bean class="com.hr.interceptor.AuthorizationInterceptor" />
+        </mvc:interceptor>
+    </mvc:interceptors>
+</beans>

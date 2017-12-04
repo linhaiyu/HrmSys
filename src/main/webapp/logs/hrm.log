@@ -1,0 +1,290 @@
+2017-12-01 11:24:22.910 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 11:24:23.020 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4
+2017-12-01 11:25:16.664 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4
+2017-12-01 11:25:19.454 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:28:00.926 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 11:28:01.376 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4
+2017-12-01 11:28:03.455 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:28:41.618 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4
+2017-12-01 11:28:43.398 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:28:43.558 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:30:35.758 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4
+2017-12-01 11:30:38.969 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:30:39.129 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:31:31.459 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4
+2017-12-01 11:31:33.609 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:31:33.739 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:31:37.869 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=Spring, remark=, createDate=null, employee=null]
+2017-12-01 11:31:37.909 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:31:43.939 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=, remark=, createDate=null, employee=null]
+2017-12-01 11:31:43.989 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:32:00.999 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:32:01.139 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:32:02.369 INFO  com.hr.controller.UserController 69 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4
+2017-12-01 11:32:03.799 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:32:03.819 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:32:07.549 INFO  com.hr.controller.TrainController 54 removeTrain - ids=3
+2017-12-01 11:36:53.814 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 11:36:53.924 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-3
+2017-12-01 11:37:05.447 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:37:05.627 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:37:09.997 INFO  com.hr.controller.TrainController 54 removeTrain - ids=3
+2017-12-01 11:37:10.027 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:37:10.067 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:42:45.633 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 11:42:46.353 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-2
+2017-12-01 11:42:50.628 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:42:50.808 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:43:24.431 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-2
+2017-12-01 11:43:25.911 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:43:26.071 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:43:27.281 INFO  com.hr.controller.TrainController 69 updateTrain - target=Train [id=1, title=SpringMVC, remark=讲解SpringMVC 框架的基本概念。, createDate=Thu Jun 15 23:10:26 CST 2017, employee=Employee [id=1, dept=Dept [id=1, name=产品研发部, remark=产品研发技术部], job=Job [id=6, name=数据库开发工程师, remark=数据库开发工程师], name=Peter, cardId=51340119881108001x, address=大石西路23号, phone=13981819292, qq=654123, email=Peterluo@mx.com, sex=1, birthday=Fri Nov 10 14:22:11 CST 2017, education=本科, remark=好好学习，天天向上]]
+2017-12-01 11:44:20.071 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-2
+2017-12-01 11:44:21.811 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:44:21.991 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:44:23.071 INFO  com.hr.controller.TrainController 69 updateTrain - target=Train [id=1, title=SpringMVC, remark=讲解SpringMVC 框架的基本概念。, createDate=Thu Jun 15 23:10:26 CST 2017, employee=Employee [id=1, dept=Dept [id=1, name=产品研发部, remark=产品研发技术部], job=Job [id=6, name=数据库开发工程师, remark=数据库开发工程师], name=Peter, cardId=51340119881108001x, address=大石西路23号, phone=13981819292, qq=654123, email=Peterluo@mx.com, sex=1, birthday=Fri Nov 10 14:22:11 CST 2017, education=本科, remark=好好学习，天天向上]]
+2017-12-01 11:44:52.591 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:44:52.641 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:44:55.031 INFO  com.hr.controller.TrainController 69 updateTrain - target=Train [id=1, title=SpringMVC, remark=讲解SpringMVC 框架的基本概念。, createDate=Thu Jun 15 23:10:26 CST 2017, employee=Employee [id=1, dept=Dept [id=1, name=产品研发部, remark=产品研发技术部], job=Job [id=6, name=数据库开发工程师, remark=数据库开发工程师], name=Peter, cardId=51340119881108001x, address=大石西路23号, phone=13981819292, qq=654123, email=Peterluo@mx.com, sex=1, birthday=Fri Nov 10 14:22:11 CST 2017, education=本科, remark=好好学习，天天向上]]
+2017-12-01 11:45:00.935 INFO  com.hr.controller.TrainController 77 updateTrain - new train=Train [id=1, title=SpringMVC入门, remark=讲解SpringMVC 框架的基本概念。, createDate=null, employee=null]
+2017-12-01 11:45:00.965 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:45:01.005 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:45:10.455 INFO  com.hr.controller.TrainController 69 updateTrain - target=Train [id=1, title=SpringMVC入门, remark=讲解SpringMVC 框架的基本概念。, createDate=Fri Dec 01 11:45:00 CST 2017, employee=Employee [id=1, dept=Dept [id=1, name=产品研发部, remark=产品研发技术部], job=Job [id=6, name=数据库开发工程师, remark=数据库开发工程师], name=Peter, cardId=51340119881108001x, address=大石西路23号, phone=13981819292, qq=654123, email=Peterluo@mx.com, sex=1, birthday=Fri Nov 10 14:22:11 CST 2017, education=本科, remark=好好学习，天天向上]]
+2017-12-01 11:45:13.175 INFO  com.hr.controller.TrainController 77 updateTrain - new train=Train [id=1, title=SpringMVC入门, remark=讲解SpringMVC 框架的基本概念。, createDate=null, employee=null]
+2017-12-01 11:45:13.195 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:45:13.235 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:45:14.665 INFO  com.hr.controller.TrainController 69 updateTrain - target=Train [id=2, title=SpringMVC入门, remark=讲解SpringMVC 框架的基本概念。, createDate=Fri Dec 01 11:45:00 CST 2017, employee=Employee [id=1, dept=Dept [id=1, name=产品研发部, remark=产品研发技术部], job=Job [id=6, name=数据库开发工程师, remark=数据库开发工程师], name=Peter, cardId=51340119881108001x, address=大石西路23号, phone=13981819292, qq=654123, email=Peterluo@mx.com, sex=1, birthday=Fri Nov 10 14:22:11 CST 2017, education=本科, remark=好好学习，天天向上]]
+2017-12-01 11:45:17.525 INFO  com.hr.controller.TrainController 77 updateTrain - new train=Train [id=2, title=SpringMVC入门, remark=讲解SpringMVC 框架的基本概念。, createDate=null, employee=null]
+2017-12-01 11:45:17.545 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:45:17.575 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:45:35.981 INFO  com.hr.controller.TrainController 69 updateTrain - target=Train [id=1, title=SpringMVC入门, remark=讲解SpringMVC 框架的基本概念。, createDate=Fri Dec 01 11:45:00 CST 2017, employee=Employee [id=1, dept=Dept [id=1, name=产品研发部, remark=产品研发技术部], job=Job [id=6, name=数据库开发工程师, remark=数据库开发工程师], name=Peter, cardId=51340119881108001x, address=大石西路23号, phone=13981819292, qq=654123, email=Peterluo@mx.com, sex=1, birthday=Fri Nov 10 14:22:11 CST 2017, education=本科, remark=好好学习，天天向上]]
+2017-12-01 11:45:55.698 INFO  com.hr.controller.TrainController 77 updateTrain - new train=Train [id=1, title=SpringMVC从入门到精通, remark=讲解SpringMVC从入门到精通, createDate=null, employee=null]
+2017-12-01 11:45:55.718 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:45:55.758 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:49:43.181 INFO  com.hr.controller.TrainController 69 updateTrain - target=Train [id=1, title=SpringMVC从入门到精通, remark=讲解SpringMVC从入门到精通, createDate=Fri Dec 01 11:45:54 CST 2017, employee=Employee [id=1, dept=Dept [id=1, name=产品研发部, remark=产品研发技术部], job=Job [id=6, name=数据库开发工程师, remark=数据库开发工程师], name=Peter, cardId=51340119881108001x, address=大石西路23号, phone=13981819292, qq=654123, email=Peterluo@mx.com, sex=1, birthday=Fri Nov 10 14:22:11 CST 2017, education=本科, remark=好好学习，天天向上]]
+2017-12-01 11:50:06.121 INFO  com.hr.controller.TrainController 77 updateTrain - new train=Train [id=1, title=Java Web开发从入门到精通, remark=Java Web开发从入门到精通，Java Web开发从入门到精通，Java Web开发从入门到精通, createDate=null, employee=null]
+2017-12-01 11:50:06.151 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:50:06.381 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:50:15.852 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=精通, remark=, createDate=null, employee=null]
+2017-12-01 11:50:15.892 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:50:19.692 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=Java, remark=, createDate=null, employee=null]
+2017-12-01 11:50:19.732 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:50:21.942 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=, remark=, createDate=null, employee=null]
+2017-12-01 11:50:21.982 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:50:25.512 INFO  com.hr.controller.TrainController 32 addTrain - show showAddTrain
+2017-12-01 11:51:04.112 INFO  com.hr.controller.TrainController 32 addTrain - show showAddTrain
+2017-12-01 11:51:10.289 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 11:51:10.404 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-2
+2017-12-01 11:51:12.208 INFO  com.hr.controller.TrainController 32 addTrain - show showAddTrain
+2017-12-01 11:51:18.027 INFO  com.hr.controller.TrainController 42 addTrain - train=Train [id=null, title=C#开发从入门到精通, remark=C#开发从入门到精通, createDate=null, employee=Employee [id=3, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 11:51:18.057 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:51:18.097 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:51:21.257 INFO  com.hr.controller.TrainController 32 addTrain - show showAddTrain
+2017-12-01 11:51:33.627 INFO  com.hr.controller.TrainController 42 addTrain - train=Train [id=null, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通, createDate=null, employee=Employee [id=4, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 11:51:33.647 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:51:33.997 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 11:51:35.847 INFO  com.hr.controller.TrainController 32 addTrain - show showAddTrain
+2017-12-01 11:51:49.137 INFO  com.hr.controller.TrainController 42 addTrain - train=Train [id=null, title=从零开始学炒股, remark=从零开始学炒股, createDate=null, employee=Employee [id=4, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 11:51:49.157 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:51:49.207 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 11:51:50.697 INFO  com.hr.controller.TrainController 32 addTrain - show showAddTrain
+2017-12-01 11:52:05.447 INFO  com.hr.controller.TrainController 42 addTrain - train=Train [id=null, title=英语情景口语100讲, remark=英语情景口语100讲, createDate=null, employee=Employee [id=3, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 11:52:05.477 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:52:05.517 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 11:52:07.877 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=2, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:52:07.927 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 11:52:11.357 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=1, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:52:11.397 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 11:52:14.377 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-6
+2017-12-01 11:52:18.097 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:52:18.147 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 11:52:37.637 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=2, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:52:37.667 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 11:52:40.337 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=1, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:52:40.387 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 11:52:41.707 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=2, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:52:41.747 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 11:52:43.347 INFO  com.hr.controller.TrainController 89 selectTrain - pageIndex=1, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 11:52:43.387 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:02:29.976 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 17:02:30.084 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-6
+2017-12-01 17:02:37.746 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:02:37.975 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:03:05.467 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=0, train=Train [id=null, title=Java, remark=, createDate=null, employee=null]
+2017-12-01 17:03:05.517 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 17:06:03.658 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=1, train=Train [id=null, title=, remark=, createDate=null, employee=null]
+2017-12-01 17:06:04.018 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:06:24.028 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=3, train=Train [id=null, title=, remark=, createDate=null, employee=null]
+2017-12-01 17:06:24.398 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:06:28.598 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=4, train=Train [id=null, title=, remark=, createDate=null, employee=null]
+2017-12-01 17:06:28.638 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:06:42.568 INFO  com.hr.controller.TrainController 72 updateTrain - target=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通, createDate=Fri Dec 01 11:51:32 CST 2017, employee=Employee [id=4, dept=Dept [id=2, name=运营部, remark=运营部], job=Job [id=11, name=产品经理, remark=产品经理], name=沉沉小筠筠, cardId=51340119881218002x, address=成都市蜀汉路49号金域港湾, phone=13456898754, qq=51345689, email=cj@max.com, sex=2, birthday=Wed Nov 08 00:00:00 CST 2017, education=doctor, remark=厉害无比]]
+2017-12-01 17:06:53.148 INFO  com.hr.controller.TrainController 80 updateTrain - new train=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通；Node.JS开发从入门到精通, createDate=null, employee=Employee [id=0, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 17:06:53.168 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:06:53.528 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:06:57.378 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=2, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:06:59.178 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=2, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:06:59.528 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 17:07:00.618 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 17:07:03.478 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=1, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:07:03.528 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:08:31.878 INFO  com.hr.controller.TrainController 72 updateTrain - target=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通；Node.JS开发从入门到精通, createDate=Fri Dec 01 17:06:53 CST 2017, employee=Employee [id=4, dept=Dept [id=2, name=运营部, remark=运营部], job=Job [id=11, name=产品经理, remark=产品经理], name=沉沉小筠筠, cardId=51340119881218002x, address=成都市蜀汉路49号金域港湾, phone=13456898754, qq=51345689, email=cj@max.com, sex=2, birthday=Wed Nov 08 00:00:00 CST 2017, education=doctor, remark=厉害无比]]
+2017-12-01 17:08:34.568 INFO  com.hr.controller.TrainController 80 updateTrain - new train=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通；Node.JS开发从入门到精通, createDate=null, employee=Employee [id=1, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 17:08:34.588 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:08:34.638 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:09:41.089 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 17:09:41.499 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-6
+2017-12-01 17:09:44.161 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:09:44.361 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:09:47.731 INFO  com.hr.controller.TrainController 72 updateTrain - target=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通；Node.JS开发从入门到精通, createDate=Fri Dec 01 17:06:53 CST 2017, employee=Employee [id=4, dept=Dept [id=2, name=运营部, remark=运营部], job=Job [id=11, name=产品经理, remark=产品经理], name=沉沉小筠筠, cardId=51340119881218002x, address=成都市蜀汉路49号金域港湾, phone=13456898754, qq=51345689, email=cj@max.com, sex=2, birthday=Wed Nov 08 00:00:00 CST 2017, education=doctor, remark=厉害无比]]
+2017-12-01 17:09:51.891 INFO  com.hr.controller.TrainController 80 updateTrain - new train=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通；Node.JS开发从入门到精通, createDate=null, employee=Employee [id=3, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 17:20:52.585 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 17:20:52.675 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-6
+2017-12-01 17:20:55.615 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:20:55.815 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:20:59.215 INFO  com.hr.controller.TrainController 72 updateTrain - target=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通；Node.JS开发从入门到精通, createDate=Fri Dec 01 17:06:53 CST 2017, employee=Employee [id=4, dept=Dept [id=2, name=运营部, remark=运营部], job=Job [id=11, name=产品经理, remark=产品经理], name=沉沉小筠筠, cardId=51340119881218002x, address=成都市蜀汉路49号金域港湾, phone=13456898754, qq=51345689, email=cj@max.com, sex=2, birthday=Wed Nov 08 00:00:00 CST 2017, education=doctor, remark=厉害无比]]
+2017-12-01 17:21:03.122 INFO  com.hr.controller.TrainController 80 updateTrain - new train=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通；Node.JS开发从入门到精通, createDate=null, employee=Employee [id=3, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 17:21:03.142 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:21:03.202 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:21:43.574 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=2, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:21:43.634 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 17:21:45.984 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=1, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:21:46.044 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:23:04.949 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 17:23:05.079 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-6
+2017-12-01 17:23:07.509 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:23:07.729 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:23:09.009 INFO  com.hr.controller.TrainController 72 updateTrain - target=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通；Node.JS开发从入门到精通, createDate=Fri Dec 01 17:06:53 CST 2017, employee=Employee [id=4, dept=Dept [id=2, name=运营部, remark=运营部], job=Job [id=11, name=产品经理, remark=产品经理], name=沉沉小筠筠, cardId=51340119881218002x, address=成都市蜀汉路49号金域港湾, phone=13456898754, qq=51345689, email=cj@max.com, sex=2, birthday=Wed Nov 08 00:00:00 CST 2017, education=doctor, remark=厉害无比]]
+2017-12-01 17:23:12.079 INFO  com.hr.controller.TrainController 80 updateTrain - new train=Train [id=5, title=Node.JS开发从入门到精通, remark=Node.JS开发从入门到精通；Node.JS开发从入门到精通, createDate=null, employee=Employee [id=3, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 17:23:12.109 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:23:12.169 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:23:14.319 INFO  com.hr.controller.TrainController 72 updateTrain - target=Train [id=2, title=SpringMVC从入门到精通, remark=讲解SpringMVC从入门到精通, createDate=Fri Dec 01 11:45:54 CST 2017, employee=Employee [id=1, dept=Dept [id=1, name=产品研发部, remark=产品研发技术部], job=Job [id=6, name=数据库开发工程师, remark=数据库开发工程师], name=Peter, cardId=51340119881108001x, address=大石西路23号, phone=13981819292, qq=654123, email=Peterluo@mx.com, sex=1, birthday=Fri Nov 10 14:22:11 CST 2017, education=本科, remark=好好学习，天天向上]]
+2017-12-01 17:23:16.383 INFO  com.hr.controller.TrainController 80 updateTrain - new train=Train [id=2, title=SpringMVC从入门到精通, remark=讲解SpringMVC从入门到精通, createDate=null, employee=Employee [id=3, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 17:23:16.403 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 17:23:16.463 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:23:19.823 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=3, train=Train [id=null, title=, remark=, createDate=null, employee=null]
+2017-12-01 17:23:19.883 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:23:23.073 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=1, train=Train [id=null, title=, remark=, createDate=null, employee=null]
+2017-12-01 17:23:23.133 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:23:26.993 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=4, train=Train [id=null, title=, remark=, createDate=null, employee=null]
+2017-12-01 17:23:27.033 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 17:23:29.663 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=3, train=Train [id=null, title=, remark=, createDate=null, employee=null]
+2017-12-01 17:23:29.713 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 22:57:58.021 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 22:57:58.141 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-5, job-20, employee-3, document-3, notice-4, train-6
+2017-12-01 22:58:04.771 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 22:58:04.971 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 22:58:09.101 INFO  com.hr.controller.DeptController 74 addDept - flag=1, dept=Dept [id=null, name=null, remark=null]
+2017-12-01 22:58:19.711 INFO  com.hr.controller.DeptController 74 addDept - flag=2, dept=Dept [id=null, name=部门A, remark=部门A]
+2017-12-01 22:58:19.741 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 22:58:19.781 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 22:58:22.431 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 22:58:22.461 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 22:58:26.661 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-12-01 22:58:26.831 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-12-01 22:58:28.321 INFO  com.hr.controller.JobController 65 addJob - show showAddJob
+2017-12-01 22:58:33.961 INFO  com.hr.controller.JobController 72 addJob - new job=Job [id=null, name=职位A, remark=职位A]
+2017-12-01 22:58:33.991 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-12-01 22:58:34.031 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 1
+2017-12-01 22:58:35.411 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=5, job=Job [id=null, name=null, remark=null]
+2017-12-01 22:58:35.431 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 5
+2017-12-01 22:58:36.101 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=6, job=Job [id=null, name=null, remark=null]
+2017-12-01 22:58:36.141 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 6
+2017-12-01 22:58:41.019 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-12-01 22:58:41.209 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 22:58:42.059 INFO  com.hr.controller.EmployeeController 56 addEmployee - show showAddEmployee
+2017-12-01 22:59:28.599 INFO  com.hr.controller.EmployeeController 68 addEmployee - job_id=22, dept_id=8, employee=Employee [id=null, dept=null, job=null, name=员工A, cardId=51340119781108001X, address=abc, phone=13456898754, qq=51345689, email=master@max.com, sex=2, birthday=Fri Dec 01 00:00:00 CST 2017, education=master, remark=abc]
+2017-12-01 22:59:28.629 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-12-01 22:59:28.999 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 22:59:39.239 INFO  com.hr.controller.NoticeController 86 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-12-01 22:59:39.399 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 22:59:43.639 INFO  com.hr.controller.NoticeController 33 addNotice - show showAddNotice
+2017-12-01 22:59:45.119 INFO  com.hr.controller.NoticeController 86 selectNotice - pageIndex=null, notice=Notice [id=null, title=null, content=null, createDate=null, user=null]
+2017-12-01 22:59:45.159 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 22:59:52.919 INFO  com.hr.controller.UserController 80 selectUser - pageIndex = null, user = User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-12-01 22:59:53.069 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 23:00:02.399 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-12-01 23:00:02.459 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 23:00:09.219 INFO  com.hr.controller.DocumentController 120 selectDocument - pageIndex = null, document = Document [id=null, title=null, fileName=null, file=null, remark=null, createDate=null, user=null].
+2017-12-01 23:00:09.359 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 23:00:11.289 INFO  com.hr.controller.DocumentController 42 addDocument - show showAddDocument
+2017-12-01 23:00:14.069 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 23:00:14.209 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 23:00:15.549 INFO  com.hr.controller.TrainController 32 addTrain - show showAddTrain
+2017-12-01 23:00:27.939 INFO  com.hr.controller.TrainController 42 addTrain - train=Train [id=null, title=培训A, remark=培训A, createDate=null, employee=Employee [id=5, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]]
+2017-12-01 23:00:27.969 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 23:00:28.019 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 23:00:29.639 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=2, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 23:00:29.689 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 23:00:35.979 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 23:00:36.009 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 23:00:38.559 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 23:00:38.589 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 23:00:42.799 INFO  com.hr.controller.DeptController 58 removeDept - dept's id = 8
+2017-12-01 23:19:18.511 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 23:19:18.621 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-6, job-21, employee-4, document-3, notice-4, train-7
+2017-12-01 23:19:20.641 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 23:19:20.791 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 23:19:22.221 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 23:19:22.252 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 23:19:24.892 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:19:25.012 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 1
+2017-12-01 23:19:27.012 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=6, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:19:27.042 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 6
+2017-12-01 23:19:29.882 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-12-01 23:19:30.082 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 23:19:32.432 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 23:19:32.592 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 23:19:34.382 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=2, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 23:19:34.432 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 23:19:37.372 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 23:19:37.402 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 23:19:39.262 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 23:19:39.292 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 23:19:42.402 INFO  com.hr.controller.DeptController 58 removeDept - dept's id = 8
+2017-12-01 23:19:42.472 ERROR com.hr.controller.DeptController 62 removeDept - 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`tiger`.`employee_inf`, CONSTRAINT `fk_emp_dept` FOREIGN KEY (`dept_id`) REFERENCES `dept_inf` (`id`))
+### The error may involve com.hr.mapper.DeptMapper.deleteById-Inline
+### The error occurred while setting parameters
+### SQL: delete from dept_inf where id = ?
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`tiger`.`employee_inf`, CONSTRAINT `fk_emp_dept` FOREIGN KEY (`dept_id`) REFERENCES `dept_inf` (`id`))
+; SQL []; Cannot delete or update a parent row: a foreign key constraint fails (`tiger`.`employee_inf`, CONSTRAINT `fk_emp_dept` FOREIGN KEY (`dept_id`) REFERENCES `dept_inf` (`id`)); nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`tiger`.`employee_inf`, CONSTRAINT `fk_emp_dept` FOREIGN KEY (`dept_id`) REFERENCES `dept_inf` (`id`))
+2017-12-01 23:19:42.482 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 23:19:42.512 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 23:19:46.862 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-12-01 23:19:46.892 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 23:20:37.961 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:20:37.991 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 1
+2017-12-01 23:20:39.811 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=6, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:20:39.841 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 6
+2017-12-01 23:20:43.631 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-12-01 23:20:43.691 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-12-01 23:20:45.761 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=null, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 23:20:45.811 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-12-01 23:20:47.561 INFO  com.hr.controller.TrainController 92 selectTrain - pageIndex=2, employee_id=null, train=Train [id=null, title=null, remark=null, createDate=null, employee=null]
+2017-12-01 23:20:47.621 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-12-01 23:20:51.731 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:20:51.761 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 1
+2017-12-01 23:20:53.762 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=6, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:20:53.791 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 6
+2017-12-01 23:20:58.181 INFO  com.hr.controller.JobController 51 removeJob - ids=22
+2017-12-01 23:20:58.181 INFO  com.hr.controller.JobController 55 removeJob - job's id=22
+2017-12-01 23:24:05.475 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-12-01 23:24:05.595 INFO  com.hr.controller.UserController 72 getMain - user-4, dept-6, job-21, employee-4, document-3, notice-4, train-7
+2017-12-01 23:24:08.645 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:24:08.805 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 1
+2017-12-01 23:24:11.445 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=6, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:24:11.505 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 6
+2017-12-01 23:24:14.625 INFO  com.hr.controller.JobController 51 removeJob - ids=22
+2017-12-01 23:24:14.625 INFO  com.hr.controller.JobController 55 removeJob - job's id=22
+2017-12-01 23:24:14.715 ERROR com.hr.controller.JobController 59 removeJob - 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`tiger`.`employee_inf`, CONSTRAINT `fk_emp_job` FOREIGN KEY (`job_id`) REFERENCES `job_inf` (`id`))
+### The error may involve com.hr.mapper.JobMapper.deleteById-Inline
+### The error occurred while setting parameters
+### SQL: delete from job_inf where id = ?
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`tiger`.`employee_inf`, CONSTRAINT `fk_emp_job` FOREIGN KEY (`job_id`) REFERENCES `job_inf` (`id`))
+; SQL []; Cannot delete or update a parent row: a foreign key constraint fails (`tiger`.`employee_inf`, CONSTRAINT `fk_emp_job` FOREIGN KEY (`job_id`) REFERENCES `job_inf` (`id`)); nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`tiger`.`employee_inf`, CONSTRAINT `fk_emp_job` FOREIGN KEY (`job_id`) REFERENCES `job_inf` (`id`))
+2017-12-01 23:24:14.725 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:24:14.755 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 1
+2017-12-01 23:24:16.645 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=6, job=Job [id=null, name=null, remark=null]
+2017-12-01 23:24:16.675 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 6, this.pageIndex = 6

@@ -1,0 +1,429 @@
+2017-11-29 00:02:53.917 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-29 00:02:55.908 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:02:56.152 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:02:59.363 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:05:56.414 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:05:56.461 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:05:59.025 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:07:27.904 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:07:27.941 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:07:29.871 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:08:12.284 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:08:12.321 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:08:13.749 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:11:10.930 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:11:10.961 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:11:12.562 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:12:31.387 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:12:31.421 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:12:33.260 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:15:12.780 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:15:12.813 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:15:16.711 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:15:54.631 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:15:54.674 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:15:56.370 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:21:14.995 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:21:15.039 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:21:16.176 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:24:42.052 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:24:42.108 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:24:43.998 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:26:44.466 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:26:44.496 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:26:45.693 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:31:12.757 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-29 00:31:14.834 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:31:15.050 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:31:22.931 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:36:47.722 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:36:47.760 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:36:49.655 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:37:01.514 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:37:01.544 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:37:05.320 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:38:29.288 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:38:29.330 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:38:30.952 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:50:49.718 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:50:49.767 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:50:51.267 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:51:44.132 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:51:44.169 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:51:46.127 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:52:08.197 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:52:08.249 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:52:09.596 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:54:21.428 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:54:21.462 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:54:26.852 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:54:46.914 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:54:46.954 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:54:48.259 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 00:55:56.477 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-29 00:56:01.026 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 00:56:01.068 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 00:56:03.259 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 01:00:52.391 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 01:00:52.422 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 01:00:53.936 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 01:01:24.128 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-29 01:01:24.155 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 01:01:33.602 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is 林多多, status is null
+2017-11-29 01:01:33.634 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 01:02:19.253 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is , status is null
+2017-11-29 01:02:19.291 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 01:02:22.192 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = 1
+2017-11-29 01:04:03.221 INFO  com.hr.controller.UserController 95 updateUser - updateUser, flag = null
+2017-11-29 01:16:33.436 INFO  com.hr.controller.UserController 39 login - login, user is abc.
+2017-11-29 01:16:35.110 INFO  com.hr.controller.UserController 63 selectUser - selectUser, userName is null, status is null
+2017-11-29 01:16:35.284 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 01:16:37.145 INFO  com.hr.controller.UserController 97 updateUser - updateUser, flag = 1
+2017-11-29 01:16:40.943 INFO  com.hr.controller.UserController 120 updateUser - updateUser, modifyUser: loginName(tom), password(tom), userName(TOMaa), status(2)
+2017-11-29 01:16:40.966 INFO  com.hr.controller.UserController 63 selectUser - selectUser, userName is null, status is null
+2017-11-29 01:16:40.997 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 01:16:50.236 INFO  com.hr.controller.UserController 97 updateUser - updateUser, flag = 1
+2017-11-29 01:16:57.483 INFO  com.hr.controller.UserController 120 updateUser - updateUser, modifyUser: loginName(tom), password(tom), userName(沉沉小筠筠), status(1)
+2017-11-29 01:16:57.503 INFO  com.hr.controller.UserController 63 selectUser - selectUser, userName is null, status is null
+2017-11-29 01:16:57.539 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 10:07:04.180 INFO  com.hr.controller.UserController 39 login - login, user is abc.
+2017-11-29 10:07:06.245 INFO  com.hr.controller.UserController 63 selectUser - selectUser, userName is null, status is null
+2017-11-29 10:07:06.424 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 10:07:13.643 INFO  com.hr.controller.UserController 97 updateUser - showUpdateUser, user's id=null
+2017-11-29 10:21:52.197 INFO  com.hr.controller.UserController 39 login - user is abc.
+2017-11-29 10:21:57.162 INFO  com.hr.controller.UserController 63 selectUser - userName is null, status is null
+2017-11-29 10:21:57.338 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 10:22:02.084 INFO  com.hr.controller.UserController 97 showUpdateUser - user's id=3
+2017-11-29 10:23:34.058 INFO  com.hr.controller.UserController 39 login - user is abc.
+2017-11-29 10:23:36.198 INFO  com.hr.controller.UserController 63 selectUser - userName is null, status is null
+2017-11-29 10:23:36.374 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 10:23:38.092 INFO  com.hr.controller.UserController 97 showUpdateUser - user's id=3, name=null, password=null
+2017-11-29 10:28:07.989 INFO  com.hr.controller.UserController 39 login - user is abc.
+2017-11-29 10:41:04.018 INFO  com.hr.controller.UserController 39 login - user is abc.
+2017-11-29 10:41:10.302 INFO  com.hr.controller.UserController 63 selectUser - userName is null, status is null
+2017-11-29 10:41:10.480 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 10:41:11.560 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 10:41:11.561 INFO  com.hr.controller.UserController 141 addUser - GET, user: name=null
+2017-11-29 10:48:07.820 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 10:48:18.375 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 10:48:18.545 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 10:48:22.263 INFO  com.hr.controller.UserController 97 showUpdateUser - user is User [id=3, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 10:48:32.342 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 10:48:32.343 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 10:59:28.823 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 10:59:32.952 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 10:59:32.953 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:07:36.508 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 11:07:38.620 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 11:07:38.620 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:10:01.644 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:10:01.840 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:10:09.459 INFO  com.hr.controller.UserController 97 showUpdateUser - user is User [id=3, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:10:20.344 INFO  com.hr.controller.UserController 121 updateUser - modifyUser: user is 
+2017-11-29 11:10:20.369 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:10:20.399 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:15:54.579 INFO  com.hr.controller.UserController 97 showUpdateUser - user is User [id=3, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:16:01.821 INFO  com.hr.controller.UserController 121 updateUser - modifyUser: user is 
+2017-11-29 11:16:01.843 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:16:01.882 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:20:49.152 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 11:20:51.741 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:20:51.933 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:20:55.650 INFO  com.hr.controller.UserController 97 showUpdateUser - user is User [id=3, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:21:08.176 INFO  com.hr.controller.UserController 121 updateUser - modifyUser: user is User [id=3, username=陈陈小筠筠, loginname=jun, password=jun, status=1, createDate=Wed Nov 29 11:21:08 CST 2017]
+2017-11-29 11:21:08.203 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:21:08.236 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:21:47.137 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 11:21:47.138 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:23:04.217 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 11:23:04.218 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:24:53.518 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 11:24:55.833 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 11:24:55.834 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:25:04.262 INFO  com.hr.controller.UserController 166 addUser - POST, user: User [id=null, username=ttt, loginname=ttt, password=ttt, status=2, createDate=null]
+2017-11-29 11:25:04.286 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:25:04.451 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:29:38.371 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 11:29:49.493 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 11:29:49.493 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:30:18.284 INFO  com.hr.controller.UserController 166 addUser - POST, user: User [id=null, username=ppp, loginname=ppp, password=ppp, status=2, createDate=null]
+2017-11-29 11:30:18.356 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:30:18.397 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:31:49.481 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:31:49.526 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:32:01.884 INFO  com.hr.controller.UserController 97 showUpdateUser - user is User [id=5, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:32:09.388 INFO  com.hr.controller.UserController 121 updateUser - modifyUser: user is User [id=5, username=ppp, loginname=ppp, password=ppp, status=1, createDate=Wed Nov 29 11:32:09 CST 2017]
+2017-11-29 11:32:09.498 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:32:09.528 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:44:05.916 INFO  com.hr.controller.UserController 43 login - user is null.
+2017-11-29 11:44:09.828 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 11:44:14.160 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 11:44:14.160 INFO  com.hr.controller.UserController 142 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:45:06.376 INFO  com.hr.controller.UserController 136 addUser - GET, flag=1
+2017-11-29 11:45:06.376 INFO  com.hr.controller.UserController 142 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:45:13.410 INFO  com.hr.controller.UserController 136 addUser - GET, flag=2
+2017-11-29 11:45:13.410 INFO  com.hr.controller.UserController 142 addUser - GET, user: User [id=null, username=sss, loginname=sss, password=sss, status=2, createDate=null]
+2017-11-29 11:45:13.440 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:45:13.610 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 11:45:54.276 INFO  com.hr.controller.UserController 76 removeUser - ids: 4,5
+2017-11-29 11:45:54.276 INFO  com.hr.controller.UserController 79 removeUser - remove user by id 4.
+2017-11-29 11:45:54.296 INFO  com.hr.controller.UserController 79 removeUser - remove user by id 5.
+2017-11-29 11:45:54.346 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:45:54.376 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:49:40.679 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 11:49:53.825 INFO  com.hr.controller.UserController 135 addUser - GET, flag=1
+2017-11-29 11:49:53.835 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:50:08.140 INFO  com.hr.controller.UserController 135 addUser - GET, flag=2
+2017-11-29 11:50:08.140 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=eee, loginname=eee, password=eee, status=2, createDate=null]
+2017-11-29 11:50:08.180 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:50:08.380 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:50:30.982 INFO  com.hr.controller.UserController 76 removeUser - ids: 6,7
+2017-11-29 11:50:30.982 INFO  com.hr.controller.UserController 79 removeUser - remove user by id 6.
+2017-11-29 11:50:31.002 INFO  com.hr.controller.UserController 79 removeUser - remove user by id 7.
+2017-11-29 11:50:31.092 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:50:31.122 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 11:50:50.522 INFO  com.hr.controller.UserController 135 addUser - GET, flag=1
+2017-11-29 11:51:26.489 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 11:58:26.508 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 11:58:28.349 INFO  com.hr.controller.UserController 135 addUser - GET, flag=1
+2017-11-29 11:58:28.349 INFO  com.hr.controller.UserController 141 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:30:04.826 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 12:30:06.627 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:30:06.837 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:30:13.407 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:30:13.447 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:30:35.072 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:30:35.102 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:30:50.771 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:30:50.971 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:31:35.404 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:31:35.555 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:32:09.315 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:32:09.355 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:32:14.197 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:32:14.237 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:35:15.482 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 12:35:17.273 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:35:17.483 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:35:43.879 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:35:44.049 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:35:45.660 INFO  com.hr.controller.UserController 112 showUpdateUser - user is User [id=3, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:35:59.728 INFO  com.hr.controller.UserController 136 updateUser - modifyUser: user is User [id=3, username=陈陈小筠筠, loginname=ccc, password=ccc, status=1, createDate=Wed Nov 29 12:35:59 CST 2017]
+2017-11-29 12:35:59.758 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:35:59.798 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:44:41.055 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 12:44:42.936 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:44:43.136 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:44:45.127 INFO  com.hr.controller.UserController 114 showUpdateUser - user is User [id=3, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:44:56.561 INFO  com.hr.controller.UserController 135 updateUser - modifyUser: user is User [id=3, username=陈陈小筠筠, loginname=cxj, password=cxj, status=2, createDate=Wed Nov 29 12:44:56 CST 2017]
+2017-11-29 12:44:56.591 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:44:56.621 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:45:10.069 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=林多多, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:45:10.109 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:45:12.570 INFO  com.hr.controller.UserController 149 addUser - GET, flag=1
+2017-11-29 12:45:12.570 INFO  com.hr.controller.UserController 155 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:45:22.686 INFO  com.hr.controller.UserController 149 addUser - GET, flag=2
+2017-11-29 12:45:22.686 INFO  com.hr.controller.UserController 155 addUser - GET, user: User [id=null, username=bbb, loginname=bbb, password=bbb, status=2, createDate=null]
+2017-11-29 12:45:22.716 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:45:22.746 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:45:35.042 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=bbb, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:45:35.382 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:45:46.128 INFO  com.hr.controller.UserController 114 showUpdateUser - user is User [id=8, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:45:50.980 INFO  com.hr.controller.UserController 135 updateUser - modifyUser: user is User [id=8, username=bbb, loginname=bbb, password=bbb, status=1, createDate=Wed Nov 29 12:45:50 CST 2017]
+2017-11-29 12:45:51.000 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:45:51.040 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:45:53.361 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:45:53.392 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 12:45:55.182 INFO  com.hr.controller.UserController 149 addUser - GET, flag=1
+2017-11-29 12:45:55.182 INFO  com.hr.controller.UserController 155 addUser - GET, user: User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:45:59.255 INFO  com.hr.controller.UserController 149 addUser - GET, flag=2
+2017-11-29 12:45:59.255 INFO  com.hr.controller.UserController 155 addUser - GET, user: User [id=null, username=aaa, loginname=aaa, password=aaa, status=1, createDate=null]
+2017-11-29 12:45:59.285 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 12:45:59.325 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 14:07:22.496 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 14:07:26.310 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:13:44.962 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 14:13:45.186 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 14:18:58.298 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 14:19:03.465 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:21:10.725 INFO  com.hr.controller.UserController 63 selectUser - user is User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 14:23:58.782 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 14:29:04.682 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 14:29:08.215 INFO  com.hr.controller.DeptController 34 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:39:24.740 INFO  com.hr.controller.UserController 39 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 14:39:28.184 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:39:28.387 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 14:39:31.780 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:39:31.808 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-11-29 14:39:42.017 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = 1, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:39:42.056 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 14:39:50.516 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:39:50.556 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-11-29 14:39:56.511 INFO  com.hr.controller.DeptController 57 removeDept - dept's id = 6
+2017-11-29 14:39:56.570 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:39:56.607 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 14:39:58.279 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:39:58.312 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-11-29 14:39:59.755 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = 1, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:39:59.794 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 14:41:36.144 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:41:36.179 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-11-29 14:41:39.015 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = 1, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:41:39.042 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 14:41:40.638 INFO  com.hr.controller.DeptController 93 updateDept - flag=1, dept=Dept [id=1, name=null, remark=null]
+2017-11-29 14:41:59.889 INFO  com.hr.controller.DeptController 93 updateDept - flag=2, dept=Dept [id=1, name=产品研发部, remark=产品研发技术部]
+2017-11-29 14:41:59.929 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:41:59.967 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 14:42:44.464 INFO  com.hr.controller.DeptController 73 addDept - flag=1, dept=Dept [id=null, name=null, remark=null]
+2017-11-29 14:43:07.570 INFO  com.hr.controller.DeptController 73 addDept - flag=2, dept=Dept [id=null, name=维护部, remark=产品维护部]
+2017-11-29 14:43:07.594 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:43:07.629 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 14:43:12.710 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = 2, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:43:12.747 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 2
+2017-11-29 14:48:43.715 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = null, dept = Dept [id=null, name=市场部, remark=null]
+2017-11-29 14:48:43.750 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 14:49:01.375 INFO  com.hr.controller.UserController 54 selectUser - pageIndex = null, user = User [id=null, username=null, loginname=null, password=null, status=null, createDate=null]
+2017-11-29 14:49:01.545 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 14:49:09.066 INFO  com.hr.controller.DeptController 33 selectDept - pageIndex = null, dept = Dept [id=null, name=null, remark=null]
+2017-11-29 14:49:09.092 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 15:34:55.253 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 15:34:58.415 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:34:58.605 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:35:00.806 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=5, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:35:00.846 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 5
+2017-11-29 15:35:08.880 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=2, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:35:08.920 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 2
+2017-11-29 15:35:10.751 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=1, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:35:10.791 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:35:24.689 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=null, job=Job [id=null, name=Java, remark=null]
+2017-11-29 15:35:24.719 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 15:35:33.764 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=null, job=Job [id=null, name=开发, remark=null]
+2017-11-29 15:35:33.804 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 15:35:35.875 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=2, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:35:35.905 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 2
+2017-11-29 15:35:41.158 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=null, job=Job [id=null, name=经理, remark=null]
+2017-11-29 15:35:41.188 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 15:35:43.849 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:35:43.889 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:36:10.694 INFO  com.hr.controller.JobController 33 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:36:10.724 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:54:59.250 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 15:55:01.921 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:55:02.124 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:55:07.238 INFO  com.hr.controller.JobController 81 updateJob - show showUpdateJob
+2017-11-29 15:55:17.705 INFO  com.hr.controller.JobController 92 updateJob - job=Job [id=1, name=Java初级开发工程师, remark=Java开发工程师.初级]
+2017-11-29 15:55:17.730 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:55:17.765 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:55:31.339 INFO  com.hr.controller.JobController 51 removeJob - ids=4
+2017-11-29 15:55:31.339 INFO  com.hr.controller.JobController 55 removeJob - job's id=4
+2017-11-29 15:55:31.370 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:55:31.400 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:57:18.340 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 15:57:21.583 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:57:21.758 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:57:31.805 INFO  com.hr.controller.JobController 51 removeJob - ids=4
+2017-11-29 15:57:31.805 INFO  com.hr.controller.JobController 55 removeJob - job's id=4
+2017-11-29 15:57:31.833 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:57:31.871 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:57:55.043 INFO  com.hr.controller.JobController 65 addJob - show showAddJob
+2017-11-29 15:58:18.561 INFO  com.hr.controller.JobController 72 addJob - new job=Job [id=null, name=C++初级工程师, remark=C++初级工程师]
+2017-11-29 15:58:18.588 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:58:18.621 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:58:23.792 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=5, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:58:23.832 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 5
+2017-11-29 15:58:45.576 INFO  com.hr.controller.JobController 81 updateJob - show showUpdateJob, id=21
+2017-11-29 15:59:06.466 INFO  com.hr.controller.JobController 92 updateJob - job=Job [id=21, name=C#初级工程师, remark=C#初级工程师]
+2017-11-29 15:59:06.496 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:59:06.534 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 1
+2017-11-29 15:59:13.380 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=5, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:59:13.409 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 5
+2017-11-29 15:59:41.243 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=经理, remark=null]
+2017-11-29 15:59:41.277 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 15:59:50.118 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=开发, remark=null]
+2017-11-29 15:59:50.150 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 15:59:53.237 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=2, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:59:53.264 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 2
+2017-11-29 15:59:58.197 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=3, job=Job [id=null, name=null, remark=null]
+2017-11-29 15:59:58.234 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 3
+2017-11-29 16:00:02.670 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=null, job=Job [id=null, name=开发, remark=null]
+2017-11-29 16:00:02.726 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 2, this.pageIndex = 1
+2017-11-29 16:00:05.475 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=2, job=Job [id=null, name=null, remark=null]
+2017-11-29 16:00:05.504 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 2
+2017-11-29 16:00:26.362 INFO  com.hr.controller.JobController 34 selectJob - pageIndex=4, job=Job [id=null, name=null, remark=null]
+2017-11-29 16:00:26.394 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 5, this.pageIndex = 4
+2017-11-29 16:53:06.164 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 16:53:09.575 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 16:53:14.738 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 16:53:22.642 INFO  com.hr.controller.EmployeeController 56 addEmployee - show showAddEmployee
+2017-11-29 16:53:30.587 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 16:53:44.404 INFO  com.hr.controller.EmployeeController 56 addEmployee - show showAddEmployee
+2017-11-29 21:57:49.210 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 21:57:52.692 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:02:20.692 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 22:02:23.994 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:02:24.234 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:03:00.945 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=2, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=0, birthday=null, education=null, remark=null]
+2017-11-29 22:03:03.887 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=1, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=0, birthday=null, education=null, remark=null]
+2017-11-29 22:03:03.947 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:03:17.944 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=13981819292, qq=null, email=null, sex=0, birthday=null, education=null, remark=null]
+2017-11-29 22:03:17.994 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:03:21.086 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=0, birthday=null, education=null, remark=null]
+2017-11-29 22:03:21.156 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:03:43.328 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=2, birthday=null, education=null, remark=null]
+2017-11-29 22:03:46.770 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=1, birthday=null, education=null, remark=null]
+2017-11-29 22:03:46.830 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:03:55.814 INFO  com.hr.controller.EmployeeController 93 updateEmployee - id=1
+2017-11-29 22:04:17.286 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:04:17.346 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:06:11.441 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 22:06:14.482 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:06:14.722 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:06:30.235 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=1, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=0, birthday=null, education=null, remark=null]
+2017-11-29 22:06:30.316 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:06:34.568 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=3, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=0, birthday=null, education=null, remark=null]
+2017-11-29 22:06:34.638 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:06:36.569 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=0, birthday=null, education=null, remark=null]
+2017-11-29 22:06:36.939 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:06:44.593 INFO  com.hr.controller.EmployeeController 93 updateEmployee - id=1
+2017-11-29 22:10:07.037 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:10:07.097 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:10:08.918 INFO  com.hr.controller.EmployeeController 93 updateEmployee - id=2
+2017-11-29 22:13:28.965 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:13:29.035 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:13:30.806 INFO  com.hr.controller.EmployeeController 93 updateEmployee - id=2
+2017-11-29 22:14:18.285 INFO  com.hr.controller.EmployeeController 109 updateEmployee - dept_id=1, job_id=3, employee=Employee [id=2, dept=null, job=null, name=李迪恩, cardId=51340119781108001X, address=清江东路33号, phone=18052526565, qq=987456, email=abc@mx.com, sex=1, birthday=Mon Nov 06 14:24:19 CST 2017, education=硕士, remark=热爱篮球、跑步、画画；擅长Java Web开发技术]
+2017-11-29 22:14:18.315 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:14:18.375 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:14:28.031 INFO  com.hr.controller.EmployeeController 93 updateEmployee - id=1
+2017-11-29 22:14:59.898 INFO  com.hr.controller.EmployeeController 109 updateEmployee - dept_id=1, job_id=6, employee=Employee [id=1, dept=null, job=null, name=Peter, cardId=51340119881108001x, address=大石西路23号, phone=13981819292, qq=654123, email=Peterluo@mx.com, sex=1, birthday=Fri Nov 10 14:22:11 CST 2017, education=本科, remark=好好学习，天天向上]
+2017-11-29 22:14:59.928 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:14:59.998 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:15:08.182 INFO  com.hr.controller.EmployeeController 56 addEmployee - show showAddEmployee
+2017-11-29 22:24:03.283 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 22:24:06.015 INFO  com.hr.controller.EmployeeController 56 addEmployee - show showAddEmployee
+2017-11-29 22:26:57.416 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 22:27:02.364 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:27:02.614 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:27:06.276 INFO  com.hr.controller.EmployeeController 56 addEmployee - show showAddEmployee
+2017-11-29 22:34:04.535 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].
+2017-11-29 22:34:08.694 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:34:08.964 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:34:09.524 INFO  com.hr.controller.EmployeeController 56 addEmployee - show showAddEmployee
+2017-11-29 22:34:54.673 INFO  com.hr.controller.EmployeeController 68 addEmployee - job_id=12, dept_id=1, employee=Employee [id=null, dept=null, job=null, name=多多, cardId=51340119781108001X, address=成都市蜀汉路49号, phone=13981819292, qq=51345689, email=duoduo@max.com, sex=1, birthday=Thu Nov 22 00:00:00 CST 2012, education=博士, remark=多多臭娃娃]
+2017-11-29 22:34:54.713 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:34:54.783 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:38:18.860 INFO  com.hr.controller.EmployeeController 79 removeEmployee - ids=2
+2017-11-29 22:38:18.860 INFO  com.hr.controller.EmployeeController 83 removeEmployee - employee's id = 
+2017-11-29 22:38:18.890 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:38:18.960 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:38:35.289 INFO  com.hr.controller.EmployeeController 56 addEmployee - show showAddEmployee
+2017-11-29 22:39:46.987 INFO  com.hr.controller.EmployeeController 68 addEmployee - job_id=11, dept_id=2, employee=Employee [id=null, dept=null, job=null, name=沉沉小筠筠, cardId=51340119881218002x, address=成都市蜀汉路49号金域港湾, phone=13456898754, qq=51345689, email=cj@max.com, sex=2, birthday=Wed Nov 08 00:00:00 CST 2017, education=doctor, remark=厉害无比]
+2017-11-29 22:39:47.017 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=null, deptId=null, employee=Employee [id=null, dept=null, job=null, name=null, cardId=null, address=null, phone=null, qq=null, email=null, sex=null, birthday=null, education=null, remark=null]
+2017-11-29 22:39:47.077 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:39:55.261 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=2, birthday=null, education=null, remark=null]
+2017-11-29 22:39:55.321 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:39:57.512 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=1, birthday=null, education=null, remark=null]
+2017-11-29 22:39:57.582 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:39:58.793 INFO  com.hr.controller.EmployeeController 31 searchEmployee - pageIndex=null, jobId=0, deptId=0, employee=Employee [id=null, dept=null, job=null, name=, cardId=, address=null, phone=, qq=null, email=null, sex=0, birthday=null, education=null, remark=null]
+2017-11-29 22:39:58.853 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-29 22:40:19.284 INFO  com.hr.controller.UserController 41 login - user is User [id=2, username=林多多, loginname=abc, password=abc, status=1, createDate=Tue Nov 28 13:43:39 CST 2017].

@@ -1,0 +1,57 @@
+2017-11-28 15:24:00.566 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 15:24:04.316 INFO  com.hr.controller.UserController 61 selectUser - selectUser, user is null
+2017-11-28 17:40:13.527 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 17:48:59.106 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 18:12:45.299 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 18:15:25.521 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 18:40:49.508 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 18:42:40.828 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 18:42:49.203 INFO  com.hr.controller.UserController 41 login - login, user is null.
+2017-11-28 18:42:53.665 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 18:43:06.462 INFO  com.hr.controller.UserController 61 selectUser - selectUser, user is null
+2017-11-28 18:58:13.557 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 18:58:22.742 INFO  com.hr.controller.UserController 61 selectUser - selectUser, user is null
+2017-11-28 18:58:22.912 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 18:59:51.741 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 18:59:54.198 INFO  com.hr.controller.UserController 61 selectUser - selectUser, user is null
+2017-11-28 18:59:54.408 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 21:19:19.359 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 21:19:30.859 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 21:19:34.446 INFO  com.hr.controller.UserController 61 selectUser - selectUser, user is null
+2017-11-28 21:19:34.621 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 22:58:36.232 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 22:58:38.340 INFO  com.hr.controller.UserController 61 selectUser - selectUser, user is null
+2017-11-28 22:58:38.576 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:10:42.292 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 23:10:44.977 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-28 23:10:45.172 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:10:59.842 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is 林多多, status is 1
+2017-11-28 23:10:59.891 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:11:59.763 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-28 23:11:59.816 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:17:55.579 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 23:17:58.345 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-28 23:17:58.538 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:18:06.242 INFO  com.hr.controller.UserController 76 removeUser - removeUser, remove user by id .
+2017-11-28 23:22:25.787 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 23:22:28.430 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-28 23:22:28.669 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:22:35.098 INFO  com.hr.controller.UserController 74 removeUser - removeUser, ids: 
+2017-11-28 23:22:35.098 INFO  com.hr.controller.UserController 77 removeUser - removeUser, remove user by id .
+2017-11-28 23:23:04.304 INFO  com.hr.controller.UserController 74 removeUser - removeUser, ids: 
+2017-11-28 23:23:04.304 INFO  com.hr.controller.UserController 77 removeUser - removeUser, remove user by id .
+2017-11-28 23:24:12.738 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-28 23:24:12.782 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:41:12.610 INFO  com.hr.controller.UserController 74 removeUser - removeUser, ids: 
+2017-11-28 23:41:12.611 INFO  com.hr.controller.UserController 77 removeUser - removeUser, remove user by id .
+2017-11-28 23:48:31.106 INFO  com.hr.controller.UserController 37 login - login, user is abc.
+2017-11-28 23:48:33.812 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-28 23:48:34.000 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:48:38.188 INFO  com.hr.controller.UserController 74 removeUser - removeUser, ids: 1
+2017-11-28 23:48:38.189 INFO  com.hr.controller.UserController 77 removeUser - removeUser, remove user by id 1.
+2017-11-28 23:48:38.229 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-28 23:48:38.271 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:49:36.593 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-28 23:49:36.652 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1
+2017-11-28 23:52:11.614 INFO  com.hr.controller.UserController 61 selectUser - selectUser, userName is null, status is null
+2017-11-28 23:52:11.659 INFO  com.hr.common.PagerTag 134 calcPage - this.totalPage = 1, this.pageIndex = 1

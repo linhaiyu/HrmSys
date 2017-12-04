@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--status 指定 log4j本身的打印日志级别 -->
+<Configuration status="WARN">
+    <!--一般三种节点 Console、RollingFile、File-->
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} %-5level %class{36} %L %M - %msg%xEx%n"/>
+        </Console>
+
+        <!--RollingRandomAccessFile 性能比RollingFile有较大提升-->
+        <RollingRandomAccessFile name="RollingFile"
+                                 fileName="${web:rootDir}/logs/hrm.log"
+                                 filePattern="${web:rootDir}/logs/$${date:yyyy-MM}/xxx-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level %class{36} %L %M - %msg%xEx%n" />
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" />
+                <SizeBasedTriggeringPolicy size="20 MB" />
+            </Policies>
+            <DefaultRolloverStrategy max="20" />
+        </RollingRandomAccessFile>
+    </Appenders>
+    <Loggers>
+
+        <!--过滤掉spring和mybatis的一些无用的DEBUG信息-->
+        <logger name="org.springframework" level="INFO" />
+        <logger name="org.mybatis" level="INFO" />
+
+        <!--默认的日志输出-->
+        <Root level="info">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="RollingFile" />
+        </Root>
+    </Loggers>
+</Configuration>
